@@ -1,0 +1,22 @@
+.container__principal{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  gap: 10px;
+  padding-top: 20px;
+
+}
+
+.input__pesquisa{
+  width: 300px;
+}
+
+table{
+  background-color: rgb(194, 189, 189);
+  border: 2px solid red;
+}
+
+thead tr th{
+  padding: 4px;
+}
