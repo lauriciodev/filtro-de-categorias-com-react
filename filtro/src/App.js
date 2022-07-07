@@ -7,6 +7,7 @@ const carros = [
   {categoria:"SUV",preco:"52000",modelo:"HRV"},
   {categoria:"SUV",preco:"2000",modelo:"T-CROSS"},
   {categoria:"Utilitario",preco:"23000",modelo:"Hillux"},
+  
   {categoria:"Utilitario",preco:"245000",modelo:"Ranger"}
 
 ]
